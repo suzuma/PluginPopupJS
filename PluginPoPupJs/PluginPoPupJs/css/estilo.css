@@ -1,0 +1,12 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+.lightBox-Container{position:absolute;z-index:999;border:1px solid #ddd;font-family:Source Sans Pro;color:#555;top:40px;;left:50%;box-shadow:0 0 8px #bbb;border-radius:4px;}
+.lightBox-Header{background:#ddd;padding:6px 10px;border-bottom:1px solid #ddd;font-weight:bold;}
+.lightBox-Body{overflow-y:scroll;background:#eee;padding:10px;}
+
+
+.anexsoft-lightbox-image{width:100%;}
+
+.ligthBox-Footer{background:#ddd;padding:6px 10px;border-bottom:1px solid #ddd;text-align:right;}
+.ligthBox-Footer button{border:1px solid #ddd;padding:8px;border-radius:4px;}
+.ligthBox-Footer button:hover{border:1px solid #ccc;background:#ddd;}
